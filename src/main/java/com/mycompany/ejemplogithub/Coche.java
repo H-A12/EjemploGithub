@@ -27,7 +27,7 @@ public class Coche {
     public String getMarca() {
         return marca;
     }
-
+//Añadimos conmentarios para ver la diferencias entre ramas
     public void setMarca(String marca) {
         this.marca = marca;
     }
